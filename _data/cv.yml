@@ -1,97 +1,44 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Computer Science
+      institution: Carnegie Mellon University, Pittsburgh, PA, U.S.
+      year: Aug 2021 - May 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Concentration in Machine Learning and Computer Systems
+        - "GPA: 4.0/4.0"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "Teaching Assistant of 15-210: Parallel and Sequential Data Structures and Algorithms"
+      institution: Carnegie Mellon University, Computer Science Department
+      year: Jan 2023 - May 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Led recitations and office hours for 200+ students on advanced algo design & functional programming in Standard ML
+        - Introduced and refined new lab infrastructure in C++
+        - Topics taught range from dynamic programming to graph/randomized algorithms and parallel data structure design
+    - title: Software Developer Intern
+      institution: Carnegie Mellon University, Data Interaction Group
+      year: Sep 2022 - Dec 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Designed data visualization schemes for evaluations of machine learning model performance for non-technical users
+        - Implemented an interactive evaluation visualization web interface using Typescript and Vega
+        - Collaborated with UX design team using Figma to improve user experience based on community feedbacks
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: "Course Tutor of 15-251: Great Ideas in Theoretical Computer Science"
+      institution: Carnegie Mellon University, Computer Science Department
+      year: Aug 2022 - Dec 2022
+      description: 
+        - Held weekly 1-on-1 meetings with students to help identify and fill gaps in understanding of the course materials
+        - Topics covered including automata theory, computational complexity, randomized algorithms, and cryptography
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021 - 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Dean's List, High Honors
+    - year: 2020
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - International Economics Olympiad, Global Finalist (National Top 10)
