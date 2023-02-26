@@ -21,4 +21,4 @@ I'm a current sophomore at [Carnegie Mellon University](https://www.cs.cmu.edu/)
 
 Feel free to take a look at the [projects](/projects) I've done so far, or learn more about my past [experiences](/experience).
 
-You can contact me with 
+You can contact me through email by clicking the icon below!
