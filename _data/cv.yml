@@ -5,29 +5,50 @@
       institution: Carnegie Mellon University, Pittsburgh, PA, U.S.
       year: Aug 2021 - May 2025
       description:
-        - Concentration in Machine Learning and Computer Systems
+        - Minor in Machine Learning and Mathematics
         - "GPA: 4.0/4.0"
 
 - title: Experience
   type: time_table
   contents:
-    - title: "Teaching Assistant of 15-210: Parallel and Sequential Data Structures and Algorithms"
-      institution: Carnegie Mellon University, Computer Science Department
+    - title: "Researcher Assistant - High-Speed Manipulation of Deformable Objects with NeRF"
+      institution: Robotics Institute - Carnegie Mellon University
+      year: May 2023 - Present
+      description:
+        - Built up a Panoptic Studio with 25 time-synchronous cameras to generate training dataset with COLMAP
+        - Configured BlenderCloth to generate synthetic data and wrote Python scripts to generate JSON configuration files compatible with ParticleNeRF and HyperNeRF to streamline the baseline model experiments
+        - Implemented depth image scaling, automated object OBB finding, and real-time particle tracking in Python and C++, and evaluated performance of baseline models by visualizing the NeRF rendering results
+    - title: "Researcher Assistant - Socrates: An Intelligent Teaching System with LLMs"
+      institution: Computer Science Department - Carnegie Mellon University
+      year: Mar 2023 - Present
+      description:
+        - Prompt-tuned GPT-4 model using OpenAI API to provide answers automatically to students in real time
+        - Implemented a question-answer system with tutor-verifier mechanism in Python for word embedding generation, quality check, and adversarial attack prevention to improve system safety and user experience
+        - Deployed the model on a cross-platform course management system and collected feedback from over 250 students in an algorithm class at CMU for further updates
+    - title: "Undergraduate Researcher - Deep Survival Analysis for Bankruptcy Prediction"
+      institution: Auton Lab - Carnegie Mellon University
       year: Jan 2023 - May 2023
       description:
-        - Led recitations and office hours for 200+ students on advanced algo design & functional programming in Standard ML
+        - Researched on firm bankruptcy prediction within given time horizon with neural networks based on corporate data
+        - Proposed 2 different implementations of bankruptcy indicator to deal with censored data and conducted data pre-processing on over 80k data points from Compustat/CRSP Merged Database for time-to-event analysis
+        - Designed training and evaluation pipeline, experimented with various survival models against baseline models and conducted parallel grid search for hyper-parameter tuning, increasing prediction accuracy by over 5.8%
+    - title: "Teaching Assistant of 15-210: Parallel and Sequential Data Structures and 
+    Algorithms"
+      institution: Computer Science Department - Carnegie Mellon University
+      year: Jan 2023 - Present
+      description:
+        - Led recitations and office hours for 200+ students on advanced algorithm design & functional programming in Standard ML
         - Introduced and refined new lab infrastructure in C++
         - Topics taught range from dynamic programming to graph/randomized algorithms and parallel data structure design
-    - title: Software Developer Intern
-      institution: Carnegie Mellon University, Data Interaction Group
+    - title: Software Developer
+      institution: Data Interaction Group - Carnegie Mellon University
       year: Sep 2022 - Dec 2022
       description:
         - Designed data visualization schemes for evaluations of machine learning model performance for non-technical users
-        - Implemented an interactive evaluation visualization web interface using Typescript and Vega
-        - Collaborated with UX design team using Figma to improve user experience based on community feedbacks
+        - Implemented an interactive evaluation visualization web interface using HTML, CSS, Javascript and Vega-Lite
 
     - title: "Course Tutor of 15-251: Great Ideas in Theoretical Computer Science"
-      institution: Carnegie Mellon University, Computer Science Department
+      institution: Computer Science Department - Carnegie Mellon University
       year: Aug 2022 - Dec 2022
       description: 
         - Held weekly 1-on-1 meetings with students to help identify and fill gaps in understanding of the course materials
@@ -36,9 +57,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2021 - 2022
+    - year: 2021 - 2023
       items: 
         - Dean's List, High Honors
     - year: 2020
       items: 
-        - International Economics Olympiad, Global Finalist (National Top 10)
+        - International Economics Olympiad, Global Finalist (National Top 3)
