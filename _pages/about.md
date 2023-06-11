@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Hi there! I'm Runzhe, welcome to my homepage :)
+subtitle: Hi there! I'm Irving, welcome to my homepage :)
 
 profile:
   align: right
