@@ -24,7 +24,7 @@
       year: Mar 2023 - Present
       description:
         - Wrote Python scripts to configure BlenderCloth and generate compatible JSON files to automate experiment process
-        - Implemented new features for ParticleNeRF with Python and C++, including depth scaling, automated OBB finding, and real-time particle tracking, improving rendering results with a MSE of 0.18 on simulated particle trajectories
+        - Implemented new features for ParticleNeRF and Instant-ngp in Python and C++ to enable real-time 3D particle tracking and multi-frame NeRF query for loss calculation and improved performance of our Metric D-NeRF model
     - title: "Machine Learning Department - Carnegie Mellon University"
       institution: Undergraduate Researcher
       year: Jan 2023 - May 2023
@@ -56,4 +56,4 @@
         - Dean's List, High Honors
     - year: 2020
       items: 
-        - International Economics Olympiad, Global Finalist (National Top 3)
+        - Global Finalist (National top 3, Gold Medal), International Economics Olympiad
